@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e79a5ffc-6ad7-4b47-b822-f42af9527ab8" name="Default" comment="简单的python之django">
-      <change beforePath="$PROJECT_DIR$/rbac/使用文档.py" beforeDir="false" afterPath="$PROJECT_DIR$/rbac/使用文档.py" afterDir="false" />
-    </list>
+    <list default="true" id="e79a5ffc-6ad7-4b47-b822-f42af9527ab8" name="Default" comment="简单的python之django" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -423,7 +421,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544624334576</updated>
-      <workItem from="1585805416423" duration="13048000" />
+      <workItem from="1585805416423" duration="13344000" />
     </task>
     <task id="LOCAL-00001" summary="简单的python之django">
       <created>1585813901428</created>
@@ -436,13 +434,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13048000" />
+    <option name="totallyTimeSpent" value="13344000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="595" y="39" width="1024" height="791" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info id="Project" order="0" visible="true" weight="0.35921326" />
+      <window_info id="Project" order="0" visible="true" weight="0.23257373" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Database Console" order="0" weight="0.32956153" />
@@ -456,7 +453,7 @@
       <window_info anchor="bottom" id="TODO" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.292868" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.70113313" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="13" weight="0.3286119" />
       <window_info anchor="bottom" id="manage.py@luffy_crm" order="14" weight="0.3580858" />
